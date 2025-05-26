@@ -1,19 +1,19 @@
 ### Documentación de la Aplicación de la Gestión Veterinaria
 ---
 
-#### Índice
+### Índice
 - [Documentación de la Aplicación de la Gestión Veterinaria](#documentación-de-la-aplicación-de-la-gestión-veterinaria)
-  - [Índice](#índice)
-  - [Introducción](#introducción)
-  - [Instalación](#instalación)
-  - [Uso](#uso)
-  - [Contribución](#contribución)
-  - [Subvención](#subvención)
+- [Índice](#índice)
+- [Introducción](#introducción)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Subvención](#subvención)
 
-#### Introducción
+### Introducción
 El Sistema de Gestión Veteroma es desarrollado por el alumnado de **IES Miguel Herrero** permite gestionar animales. 
 
-#### Instalación
+### Instalación
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 1. Clonar el repositorio desde GitHub:
    ```bash
@@ -21,7 +21,7 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
    ```
 2. Abre el proyecto en tu entorno.
 3. Compila y ejecuta el proyecto.
-#### Uso
+### Uso
 El sistema veterinario incluye las siguientes funcionalidades:
 - Solicitud y gestión de citas
 - Acceso y consulta de historial clínico
@@ -43,7 +43,7 @@ A continuación se detalla la función dentro del sistema de cada uno de los usu
 Lo representamos a través del siguiente diagrama de casos de uso:
 ![Diagrama casos de uso](entornos/diagrama_casos_uso.png)
 
-#### Contribución
+### Contribución
 ¿Quieres colaborar en el desarrollo?
 1. Haz un fork del repositorio.
 2. Crea una nueva rama (`git checkout -b feature(tu-mejora).`)
@@ -51,9 +51,10 @@ Lo representamos a través del siguiente diagrama de casos de uso:
 4. Push a la rama (`git push origin feature(tu-mejora)`)
 5. Abre pull request en GitHub.
 
-#### Subvención
+### Subvención
 Este proyecto esta subvencionado por el [Gobierno de España](https://www.infosubvenciones.es/bdnstrans/GE/es/inicio).
 ***
 Para obtener más información sobre la aplicación y su funcionamiento interno, consultas nuestra [documentación técnica](documentacion-tecnica.md).
 Otros organismos colaboradores: 
+
 ![imagen miguel herrero](https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png)
