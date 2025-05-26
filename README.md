@@ -17,7 +17,7 @@ El Sistema de Gestión Veteroma es desarrollado por el alumnado de **IES Miguel 
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 1. Clonar el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/haroxdev2/ex_reto_ed.git
+   git clone https://github.com/haroxdev2/AdrianMartinezRETO.git
    ```
 2. Abre el proyecto en tu entorno.
 3. Compila y ejecuta el proyecto.
