@@ -3,13 +3,12 @@
 
 ### Índice
 - [Documentación de la Aplicación de la Gestión Veterinaria](#documentación-de-la-aplicación-de-la-gestión-veterinaria)
-- [Índice](#índice)
-- [Introducción](#introducción)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Subvención](#subvención)
-
+    - [Índice](#índice)
+    - [Introducción](#introducción)
+    - [Instalación](#instalación)
+    - [Uso](#uso)
+    - [Contribución](#contribución)
+    - [Subvención](#subvención)
 ### Introducción
 El Sistema de Gestión Veteroma es desarrollado por el alumnado de **IES Miguel Herrero** permite gestionar animales. 
 
